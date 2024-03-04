@@ -1,2 +1,2 @@
-# package-tea-seven
-package-tea-seven
+# package-tea-one
+package simple for pypi
